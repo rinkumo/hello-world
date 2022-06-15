@@ -1,2 +1,3 @@
 this is test from git push practice in 20220615
 by kumori
+git pull リクエスト practice
